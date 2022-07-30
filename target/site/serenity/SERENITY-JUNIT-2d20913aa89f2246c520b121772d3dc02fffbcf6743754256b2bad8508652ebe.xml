@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Academu Choucair" skipped="0" tests="1" time="22.94" timestamp="2022-07-30 03:10:43"><testcase name="Search for a Automatio course"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+co.com.choucair.certification.prueba.tasks.Login.performAs(Login.java:23)&#13;
+co.com.choucair.certification.prueba.stepdefinitions.ChoucairAcademyStepDefinitions.thanBrandonWantsToLearnAutomationAtTheAcademyCHoucair(ChoucairAcademyStepDefinitions.java:23)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
